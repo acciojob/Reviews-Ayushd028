@@ -1,0 +1,64 @@
+.container {
+  text-align: center;
+  margin: 2rem;
+}
+
+.review {
+  display: inline-block;
+  padding: 2rem;
+  border-radius: 10px;
+  background: #f9f9f9;
+  text-align: center;
+}
+
+.person-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.author {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.job {
+  color: gray;
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+}
+
+.info {
+  margin: 1rem 0;
+  font-size: 1rem;
+  color: #333;
+}
+
+.buttons button {
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.prev-btn {
+  background-color: #ff5a5f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.next-btn {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.random-btn {
+  background-color: #009688;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
